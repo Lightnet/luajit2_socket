@@ -1,4 +1,4 @@
-# luajit_socket
+# luajit2_socket
 
 # License: MIT
 
